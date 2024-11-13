@@ -1,3 +1,3 @@
-# Data Source for Our Final Project
+# Project Workspace for DS 9000 Final Project
 
-* Term F2024, DS 9000
+* F2024, Group 11
